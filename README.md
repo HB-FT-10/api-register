@@ -23,3 +23,9 @@ DB_PASSWORD=password
 
 > [!NOTE]
 > Vous pouvez aussi copier le fichier `conf/db.ini.template` vers `conf/db.ini` et personnaliser les valeurs de configuration
+
+## Aperçu
+
+![Register](./docs/register_form.png)
+
+![Confirm](./docs/confirm.png)
