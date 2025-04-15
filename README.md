@@ -1,4 +1,14 @@
-# Configuration
+# API Token Inscription
+
+## Lancement du projet
+
+Depuis la racine du projet :
+
+```bash
+php -S localhost:8000
+```
+
+## Configuration
 
 Créer un fichier `conf/db.ini` et inscrire vos données d'accès à la base de données avec le format suivant :
 
